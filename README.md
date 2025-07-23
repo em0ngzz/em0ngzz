@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am interested in research on Brain-Computer Interfaces and Deep Learning.
+I’m interested in brain decoding and its applications using deep learning.
 
 ## 💻 Tech Stack
 ### Languages
